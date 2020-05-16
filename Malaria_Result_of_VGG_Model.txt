@@ -1,0 +1,13 @@
+Confusion Matrix:
+TP => 2051  |  FP => 49
+FN => 94  |  TN => 2006
+
+Accuracy => 0.965952380952381
+Precision => 0.9766666666666667
+Recall => 0.9561771561771562
+Specificity => 0.9761557177615572
+F1_Measure => 0.9663133097762072
+Miss_Rate => 0.04382284382284385
+Fall_Out => 0.023844282238442815
+Matthews Correlation Coefficient => 0.9321187933433372
+Cohen's kappa => 0.9913880445795341
